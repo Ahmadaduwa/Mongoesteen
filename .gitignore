@@ -1,0 +1,12 @@
+Datasets/
+DataTest/
+DataTrain/
+datagroup/
+DataMangosteen/
+checkpoints/
+mangosteen_volume_model_all_suggessions.h5
+mangosteen_volume_model_aug_finetune.h5
+mangosteen_volume_model_aug.h5
+volume_scaler_finetune.save
+volume_scaler.save
+*.h5
